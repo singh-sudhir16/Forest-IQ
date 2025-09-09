@@ -30,7 +30,7 @@ models for tree detection and classification
 
 > Clone the repository:
 ```
-git clone https://github.com/ShashankDahake7/ForestIQ.git
+git clone https://github.com/singh-sudhir16/Forest-IQ
 cd ForestIQ
 ```
 > Frontend Setup (React)
